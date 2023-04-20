@@ -1,0 +1,45 @@
+
+const toolbar = [
+  'emoji',
+  'headings',
+  'bold',
+  'italic',
+  'strike',
+  'link',
+  '|',
+  'list',
+  'ordered-list',
+  'check',
+  'outdent',
+  'indent',
+  '|',
+  'quote',
+  'line',
+  'code',
+  'inline-code',
+  'insert-before',
+  'insert-after',
+  '|',
+  'upload',
+  'record',
+  'table',
+  '|',
+  'undo',
+  'redo',
+  '|',
+  'fullscreen',
+  'edit-mode',
+  'both',
+  'code-theme',
+  'content-theme',
+  'export',
+  'outline',
+  'preview',
+  'devtools',
+  'info',
+  'help'
+]
+
+module.exports = {
+  toolbar
+}
